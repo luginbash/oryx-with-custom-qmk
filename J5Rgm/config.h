@@ -1,6 +1,7 @@
 /*
   Set any config.h overrides for your specific keymap here.
-  See config.h options at https://docs.qmk.fm/#/config_options?id=the-configh-file
+  See config.h options at
+  https://docs.qmk.fm/#/config_options?id=the-configh-file
 */
 
 #define RETRO_TAPPING
@@ -13,3 +14,4 @@
 
 #define RGB_MATRIX_STARTUP_SPD 60
 
+#define OS_DETECTION_ENABLE = yes
